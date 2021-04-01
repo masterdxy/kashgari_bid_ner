@@ -1,0 +1,7 @@
+chinese_L-12_H-768_A-12/bert_model*
+nezha_base
+*.h5
+example_loss_acc.png
+venv/
+corpus/*
+.idea/
